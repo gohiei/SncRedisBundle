@@ -1,5 +1,5 @@
 {
-    "name": "snc/redis-bundle",
+    "name": "gohiei/redis-bundle",
     "type": "symfony-bundle",
     "description": "A Redis bundle for Symfony",
     "keywords": ["redis", "nosql", "symfony"],
